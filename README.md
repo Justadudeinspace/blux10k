@@ -1,0 +1,2 @@
+# blux10k
+BLUX10k_DEV_SHELL
